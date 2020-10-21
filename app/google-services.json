@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1083536798695",
+    "firebase_url": "https://attendance-accounting.firebaseio.com",
+    "project_id": "attendance-accounting",
+    "storage_bucket": "attendance-accounting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083536798695:android:b33e498e809559e6104342",
+        "android_client_info": {
+          "package_name": "ru.ivmak.attendance_accounting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083536798695-hb6703k8526jctsq7ubhj1e4ggjdn5vg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.ivmak.attendance_accounting",
+            "certificate_hash": "c2f829876a8262c67fa874550e01a943642f18dd"
+          }
+        },
+        {
+          "client_id": "1083536798695-l30k48k3vqrmb2n1t8e52v9g5t0b4i6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUv4Vr3kjsPK1sZnW5FnmRwaDIdUXkD3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083536798695-l30k48k3vqrmb2n1t8e52v9g5t0b4i6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
